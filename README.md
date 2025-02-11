@@ -1,2 +1,3 @@
 # ICON24-25
-Progetto di ingegneria della conoscenza Appice Lorenzo
+Progetto di ingegneria della conoscenza a cura di : Appice Lorenzo
+
